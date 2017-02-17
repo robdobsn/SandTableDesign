@@ -1,0 +1,16 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"DIN EN ISO 7046-1 - d M3 x l 30 - 4.8 - H";"";
+"MATERIAL";"Steel";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"10-24072008-073475";"";
+"STANDARD";"DIN EN ISO 7046-1";"";
+"DESIGN";"Countersunk flat head screw DIN EN ISO 7046-1 - M3 x 30 - 4.8 - H";"";
+"TraceParts.InstanceId";"10-24072008-0734759OD9HF7P82G6P8BK6YJEX6KG";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartTitle";"Counter flat head screws (common head style) - Type H";"";
+"OMNICLASS23";"23.13.23.11.13";"";
+"TraceParts.PartVersion";"1.3.4";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"DIN:/S_DIN/C21/C21.060/C21.060.010/10-24072008-073475";"";
+"TraceParts.PartStandardAcronym";"DIN";"";

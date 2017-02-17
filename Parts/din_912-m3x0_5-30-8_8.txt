@@ -1,0 +1,17 @@
+﻿"Symbol";"Value";"Unit";
+"NOTE";"Class: 8.8; grade: A";"";
+"REFERENCE";"DIN 912 - d M3 x p 0.5 - l 30 - 8.8";"";
+"MATERIAL";"Steel";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"10-11062001-154695";"";
+"STANDARD";"DIN 912";"";
+"DESIGN";"Hexagon socket head screw DIN 912 - M3 x 0.5 - 30 - 8.8";"";
+"TraceParts.InstanceId";"10-11062001-154695CCX6JQ03FBIMT4D8H0A6HGCHJ";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartTitle";"Hexagon socket head screw";"";
+"OMNICLASS23";"23.13.23.11.13";"";
+"TraceParts.PartVersion";"1.4.9";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"DIN:/S_DIN/C21/C21.060/C21.060.010/10-11062001-154695";"";
+"TraceParts.PartStandardAcronym";"DIN";"";
